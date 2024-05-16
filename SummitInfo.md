@@ -4,7 +4,7 @@ Thank you for your interest in the NZ ICS/OT Cyber Summit, run by the NZ ICS Cyb
 ## Contents
 -   About the NZ ICS Cyber Technical Network
 -   Members
--   NZ ICS/OT Cyber Summit 2024
+-   NZ ICS/OT Cyber Summit
 -   Call for Presenters (CFP)
 -   Call for Exhibitors
 -   Panels
