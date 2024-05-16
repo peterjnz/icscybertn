@@ -140,4 +140,5 @@ The annual summit is a ticketed event.  Funds from the event go towards event co
 
 ## Updates
 Updates via https://icscyber.org.nz where you can check the website or join the mailing list
-The latest version of this information is at https://github.com/peterjnz/icscybertn/SummitInfo.md
+
+The latest version of this Summit Info is at https://github.com/peterjnz/icscybertn/
