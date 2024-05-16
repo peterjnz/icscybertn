@@ -14,7 +14,9 @@ Thank you for your interest in the NZ ICS/OT Cyber Summit, run by the NZ ICS Cyb
 
 ## About the NZ ICS Cyber Technical Network
 **Purpose/Aim:**	An industry-led organisation established to promote the sharing and understanding of Industrial Control Systems (ICS) Cyber Security ideas in order to foster learning, development and improve cyber security maturity for NZ industrial companies.
+
 Latest information on NZ ICS Cyber TN via https://icscyber.org.nz or https://icscyber.org.nz/NextEvent.pdf 
+
 Any questions, comments or concerns can be directed to Peter Jackson, Facilitator, NZ ICS Cyber Technical Network via info@icscyber.org.nz or to the summit committee via summit@icscyber.org.nz 
 
 ## Members
@@ -37,9 +39,11 @@ The DRAFT summit agenda includes:
 
 International contributors including:
 -   Robert M Lee (US) | Co-founder | Dragos
+-   More to follow (~4-5 international contributors expected)
 
 NZ contributors including:
 -   TBD from NZ NCSC
+-   More to follow (~10-15 NZ contributors expected)
 
 ## Call for Presenters (CFP)
 Please consider presenting at the NZ ICS Cyber TN Summit if:
@@ -56,25 +60,28 @@ The talk should have a focus on pragmatic end-user topics (both technical and ma
 -	To maintain non-commercial focus, please limit any ‘about company’ slides to 1 slide and spend no more than 30 seconds on this topic. Content focus should not be about your company and what your company does or sells, but about the issues and problems, etc.
 
 Based on past breaches of these guidelines, the NZ ICS Cyber TN committee reserve the right to review slide decks from technology/service providers BEFORE the presentation to ensure adherence to these guidelines.
-Submit your CFP response via the website (https://icscyber.org.nz/) or via email (present@icscyber.org.nz)
 
 Please include bio (name, org, contact, LinkedIn, photo, etc.) and talk (title and abstract) info in addition to any other information you would like the summit committee to consider in assessing your CFP response.
+
 Presenters receive a free ticket to the summit.  Presenters are expected to arrange their own travel to (and if required accommodation in) New Plymouth.
 
-Timing for CFP:	NOW OPEN - closing date: tbd
+Timing for CFP:   NOW OPEN
+
+Closing date:     tbd
+
 Priority for CFPs will be given to:
 1.	Industrial end-user and/or owner/operators
 2.	International service and technology providers
 3.	Other interested parties (govt, community, research, etc.)
 4.	NZ service and technology providers
 
+Submit your CFP response via the website (https://icscyber.org.nz/) or via email (present@icscyber.org.nz)
+
 ## Call for Exhibitors
 Please consider exhibiting at the NZ ICS/OT Cyber Summit if you are a service/technology provider working in the NZ ICS/OT security space and would like the opportunity to present your offering in person to NZ ICS/OT security practitioners.  
-The costs for exhibiting are:
-•	NZD tbd ex gst for a booth (1.2m deep, 2.4m wide) including Eventbrite fees
-For enquiries, please email exhibit@icscyber.org.nz
 
-## Call for Sponsors
+The costs for exhibiting are:   NZD tbd ex gst for a booth (1.2m deep, 2.4m wide) including Eventbrite fees
+
 Those wanting to sponsor can choose to exhibit.  No formal sponsorship is required at this time.
 
 Please note:
@@ -98,10 +105,13 @@ Exhibitor timeline closer to the Summit:
 Please submit your questions via exhibit@icscyber.org.nz 
 
 ## Panels
-We will run a number of panels at the NZ ICS/OT Cyber Summit 2023.  Current line-up:  
+We will run a number of panels at the NZ ICS/OT Cyber Summit 2023.  
+
+Current line-up:  
 tbd
 
 Before the summit, the facilitator will run an online call (Teams or Zoom) for the panel to meet, break the ice, discuss the panel, set expectations for the panel, etc.  This is not expected to be a ‘dry run’.
+
 The panels are expected to run for ~45 minutes starting with opening remarks from the facilitator and introductions.  To get started, the facilitator is expected to ask a few opening questions before opening up questions from the summit participants (audience).  It is expected that the panel will be at least ~50% audience-driven – the question-list will not be fixed.
 
 There will be a few controls to manage oversharing and reduce risk exposure to panellists (especially those representing end-user owner/operator organisations):
@@ -112,16 +122,20 @@ There will be a few controls to manage oversharing and reduce risk exposure to p
 -	All panellists are experienced security practitioners and are expected to have the good judgement required to manage risk for the organisation they represent
  
 ## Round Tables
-We will run a number of round tables at the NZ ICS/OT Cyber Summit 2023.  Current line-up:
+We will run a number of round tables at the NZ ICS/OT Cyber Summit 2023.  
+
+Current line-up:
 tbd
 
 If you would like to run a round-table and/or have a topic to suggest, please email summit@icscyber.org.nz 
 
 The round table facilitator is expected to lead an informal open discussion session with ~up to 15 NZ ICS/OT Cyber Summit 2023 participants.  There is no specific format expected.  There are no expectations apart from creating a space for constructive discussion.  There will be no reporting back to anyone.  Once the round table finishes, all attendees will head to afternoon tea and the facilitator obligations will end.
+
 The intent is to build the community defence through (appropriate) sharing and create connections in the NZ ICS/OT security community, leveraging from international experience where possible.
 
 ## Finances
 Speakers, committee members, panellists, facilitators, and supporting personnel are not paid and support the NZ ICT/OT Cyber Summit 2023 as volunteers.  Speaking fees or travel costs will not be paid.
+
 The annual summit is a ticketed event.  Funds from the event go towards event costs as well as administrative costs for the group.
 
 ## Updates
