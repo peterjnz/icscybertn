@@ -2,15 +2,15 @@
 Thank you for your interest in the NZ ICS/OT Cyber Summit, run by the NZ ICS Cyber Technical Network.
 
 ## Contents
-About the NZ ICS Cyber Technical Network
-Members
-NZ ICS/OT Cyber Summit 2024
-Call for Presenters (CFP)
-Call for Exhibitors
-Panels
-Round Tables
-Finances
-Updates	
+-   About the NZ ICS Cyber Technical Network
+-   Members
+-   NZ ICS/OT Cyber Summit 2024
+-   Call for Presenters (CFP)
+-   Call for Exhibitors
+-   Panels
+-   Round Tables
+-   Finances
+-   Updates	
 
 ## About the NZ ICS Cyber Technical Network
 **Purpose/Aim:**	An industry-led organisation established to promote the sharing and understanding of Industrial Control Systems (ICS) Cyber Security ideas in order to foster learning, development and improve cyber security maturity for NZ industrial companies.
