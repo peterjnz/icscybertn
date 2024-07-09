@@ -24,7 +24,10 @@ The NZ ICS Cyber TN is made up of members from across NZ (with some internationa
 
 ## NZ ICS/OT Cyber Summit 
 The date for the NZ ICS/OT Cyber Summit 2024 is:	**Tues 12th November in New Plymouth, NZ**
-We’re expecting ~200 ICS/OT security practitioners to join together for an in-person only event with TLP: Amber (and/or Amber+Strict) sharing as appropriate.  This will be the largest gathering of ICS/OT practitioners in NZ ever.
+
+We’re expecting ~200 ICS/OT security practitioners to join together for an in-person only event with TLP: Amber (and/or Amber+Strict) sharing as appropriate.  
+
+This will be the largest gathering of ICS/OT practitioners in NZ ever.
 
 The DRAFT summit agenda includes:
 -	~08:30 Doors open, reg, opening
@@ -38,7 +41,7 @@ The DRAFT summit agenda includes:
 -	~17:00 Drinks and nibbles
 
 International contributors including:
--   Robert M Lee (US) | Co-founder | Dragos
+-   [Robert M Lee (US)](https://www.linkedin.com/in/robmichaellee/) | Co-founder | Dragos
 -   More to follow (~4-5 international contributors expected)
 
 NZ contributors including:
@@ -67,7 +70,7 @@ Presenters receive a free ticket to the summit.  Presenters are expected to arra
 
 Timing for CFP:   NOW OPEN
 
-Closing date:     tbd
+Closing date:     30th Sept 2024 17:00 NZT
 
 Priority for CFPs will be given to:
 1.	Industrial end-user and/or owner/operators
@@ -80,32 +83,37 @@ Submit your CFP response via the website (https://icscyber.org.nz/) or via email
 ## Call for Exhibitors
 Please consider exhibiting at the NZ ICS/OT Cyber Summit if you are a service/technology provider working in the NZ ICS/OT security space and would like the opportunity to present your offering in person to NZ ICS/OT security practitioners.  
 
-The costs for exhibiting are:   NZD tbd ex gst for a booth (1.2m deep, 2.4m wide) including Eventbrite fees
+The costs for exhibiting are:   NZD 1950 inc. fees ex. gst for a booth (1.2m deep, 2.4m wide)
 
 Those wanting to sponsor can choose to exhibit.  No formal sponsorship is required at this time.
 
+From the previous Summit survey:
+-  For Q1, 100% of respondents were satisfied or extremely satisfied with 2023 summit
+-  For Q6, respondents gave a [Net Promotor Score (NPS®)](https://www.netpromotersystem.com/) of 79 with an average of 9.3/10 
+-  For Q7, the summit exceeded expectations for 65% of respondents (35% met expectations)
+
 Please note:
--	The venue is limited to ~20 exhibitors – first-come, first-served
--	Exhibitors will not receive a list of NZ ICS/OT Cyber Summit 2023 attendees
+-	The venue is limited to ~15 exhibitors – first-come, first-served
+-	Exhibitors will not receive a list of NZ ICS/OT Cyber Summit attendees
 -	No free passes will be issued. All exhibitors must hold an attendee pass 
--	Attendee passes are a very reasonable NZD tbd ex gst
+-	Attendee passes are a very reasonable NZD 195 inc. fees ex. gst
 -	All trestle tables and booths come with power.  The venue has password-protected Wi-Fi
 
-Tickets WILL be via Eventbrite: https://icscyber.eventbrite.co.nz/. Based on booth and table registrations, the summit team will shape the layout of the exhibitor area. The summit team will engage with exhibitors on a first-come, first-served basis for them to select the booth they have bought.
+Tickets via Eventbrite: https://icscyber.eventbrite.co.nz/. Based on booth registrations, the summit team will shape the layout of the exhibitor area. The summit team will engage with exhibitors on a first-come, first-served basis for them to select the booth they have bought.
  
 Exhibitor timeline closer to the Summit:
--	Monday 11th November, exhibitor sales are scheduled to close
+-	Monday 2nd November, 17:00 NZT exhibitor sales are scheduled to close
 -	Monday 11th November, 12:00 pm onwards, the DEVON room opens for early pack-in
 -	Tuesday 12th November, 7:30 am onwards, the DEVON room opens for late pack-in  
-   From 8:30, Summit begins 
-   From 17:00, closing drinks in exhibitor area – drink tickets provided with registration  
-   From 19:00, event ends – early pack-out  
+   -  From 8:30, Summit begins
+   -  From 17:00, closing drinks in exhibitor area – drink tickets provided with registration  
+   -  From 19:00, event ends – early pack-out  
 -	Wednesday 13th November – late pack-out 
 
 Please submit your questions via exhibit@icscyber.org.nz 
 
 ## Panels
-We will run a number of panels at the NZ ICS/OT Cyber Summit 2023.  
+We will run a number of panels at the NZ ICS/OT Cyber Summit.  
 
 Current line-up:  
 tbd
@@ -122,19 +130,19 @@ There will be a few controls to manage oversharing and reduce risk exposure to p
 -	All panellists are experienced security practitioners and are expected to have the good judgement required to manage risk for the organisation they represent
  
 ## Round Tables
-We will run a number of round tables at the NZ ICS/OT Cyber Summit 2023.  
+We will run a number of round tables at the NZ ICS/OT Cyber Summit.  
 
 Current line-up:
 tbd
 
 If you would like to run a round-table and/or have a topic to suggest, please email summit@icscyber.org.nz 
 
-The round table facilitator is expected to lead an informal open discussion session with ~up to 15 NZ ICS/OT Cyber Summit 2023 participants.  There is no specific format expected.  There are no expectations apart from creating a space for constructive discussion.  There will be no reporting back to anyone.  Once the round table finishes, all attendees will head to afternoon tea and the facilitator obligations will end.
+The round table facilitator is expected to lead an informal open discussion session with ~up to 15 NZ ICS/OT Cyber Summit participants.  There is no specific format expected.  There are no expectations apart from creating a space for constructive discussion.  There will be no reporting back to anyone.  Once the round table finishes, all attendees will head to afternoon tea and the facilitator obligations will end.
 
 The intent is to build the community defence through (appropriate) sharing and create connections in the NZ ICS/OT security community, leveraging from international experience where possible.
 
 ## Finances
-Speakers, committee members, panellists, facilitators, and supporting personnel are not paid and support the NZ ICT/OT Cyber Summit 2023 as volunteers.  Speaking fees or travel costs will not be paid.
+Speakers, committee members, panellists, facilitators, and supporting personnel are not paid and support the NZ ICT/OT Cyber Summit as volunteers.  Speaking fees or travel costs will not be paid.
 
 The annual summit is a ticketed event.  Funds from the event go towards event costs as well as administrative costs for the group.
 
