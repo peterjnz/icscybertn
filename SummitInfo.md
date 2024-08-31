@@ -83,7 +83,7 @@ Submit your CFP response via the website (https://icscyber.org.nz/) or via email
 ## Call for Exhibitors
 Please consider exhibiting at the NZ ICS/OT Cyber Summit if you are a service/technology provider working in the NZ ICS/OT security space and would like the opportunity to present your offering in person to NZ ICS/OT security practitioners.  
 
-The costs for exhibiting are:   NZD 1950 inc. fees ex. gst for a booth (1.2m deep, 2.4m wide)
+The costs for exhibiting are:   NZD 1950 inc. fees ex. gst for a booth (1.2m deep, 2.4m wide, ~2.0m tall)
 
 Those wanting to sponsor can choose to exhibit.  No formal sponsorship is required at this time.
 
@@ -98,6 +98,8 @@ Please note:
 -	No free passes will be issued. All exhibitors must hold an attendee pass 
 -	Attendee passes are a very reasonable NZD 195 inc. fees ex. gst
 -	All trestle tables and booths come with power.  The venue has password-protected Wi-Fi
+
+All booths are standard dimensions from TLL (events provider).  After registering a booth, you can contact Michael at TLL directly via www.tll.events, +64 6 758 2875, or  michael@tll.events (for example for addditional furniture and/or additional technical requirements)
 
 Tickets via Eventbrite: https://icscyber.eventbrite.co.nz/. Based on booth registrations, the summit team will shape the layout of the exhibitor area. The summit team will engage with exhibitors on a first-come, first-served basis for them to select the booth they have bought.
  
