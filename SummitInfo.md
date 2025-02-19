@@ -1,4 +1,4 @@
-# Speaker/Exhibitor/Panellist Info – NZ ICS/OT Cyber Summit 2024
+# Speaker/Exhibitor/Panellist Info – NZ ICS/OT Cyber Summit 2025
 Thank you for your interest in the NZ ICS/OT Cyber Summit, run by the NZ ICS Cyber Technical Network.
 
 ## Contents
@@ -23,9 +23,11 @@ Any questions, comments or concerns can be directed to Peter Jackson, Facilitato
 The NZ ICS Cyber TN is made up of members from across NZ (with some international members with an interest in NZ ICS/OT security).  Various backgrounds including IT, OT, and ICS professionals.  Owner/operators as well as vendors and service providers. Various industries including both critical (CNI) and non-critical industrial organisations.  Most members have a good understanding of OT principals (skip the basics).
 
 ## NZ ICS/OT Cyber Summit 
-The date for the NZ ICS/OT Cyber Summit 2024 is:	**Tues 12th November in New Plymouth, NZ**
+The date for the NZ ICS/OT Cyber Summit 2025 is:	**Wed 26th November in New Plymouth, NZ**
 
-We’re expecting ~200 ICS/OT security practitioners to join together for an in-person only event with TLP: Amber (and/or Amber+Strict) sharing as appropriate.  
+We’re expecting ~150-200 ICS/OT security practitioners to join together for an in-person only event with TLP: Amber (and/or Amber+Strict) sharing as appropriate.  
+
+This is built on highly-successful NPL summits in 2023 and 2024 
 
 This will be the largest gathering of ICS/OT practitioners in NZ ever.
 
@@ -70,7 +72,7 @@ Presenters receive a free ticket to the summit.  Presenters are expected to arra
 
 Timing for CFP:   NOW OPEN
 
-Closing date:     30th Sept 2024 17:00 NZT
+Closing date:     30th Sept 2025 17:00 NZT
 
 Priority for CFPs will be given to:
 1.	Industrial end-user and/or owner/operators
@@ -83,7 +85,7 @@ Submit your CFP response via the website (https://icscyber.org.nz/) or via email
 ## Call for Exhibitors
 Please consider exhibiting at the NZ ICS/OT Cyber Summit if you are a service/technology provider working in the NZ ICS/OT security space and would like the opportunity to present your offering in person to NZ ICS/OT security practitioners.  
 
-The costs for exhibiting are:   NZD 1950 inc. fees ex. gst for a booth (1.2m deep, 2.4m wide, ~2.0m tall)
+The costs for exhibiting are noted on the registration page.  All exhibitors get a booth (1.2m deep, 2.4m wide, ~2.0m tall) with table, chairs, and power.
 
 Those wanting to sponsor can choose to exhibit.  No formal sponsorship is required at this time.
 
@@ -96,7 +98,7 @@ Please note:
 -	The venue is limited to ~15 exhibitors – first-come, first-served
 -	Exhibitors will not receive a list of NZ ICS/OT Cyber Summit attendees
 -	No free passes will be issued. All exhibitors must hold an attendee pass 
--	Attendee passes are a very reasonable NZD 195 inc. fees ex. gst
+-	Attendee passes are a very reasonable NZD tbc inc. fees ex. gst
 -	All trestle tables and booths come with power.  The venue has password-protected Wi-Fi
 
 All booths are standard dimensions from TLL (events provider).  After registering a booth, you can contact Michael at TLL directly via www.tll.events, +64 6 758 2875, or  michael@tll.events (for example for addditional furniture and/or additional technical requirements)
@@ -104,13 +106,13 @@ All booths are standard dimensions from TLL (events provider).  After registerin
 Tickets via Eventbrite: https://icscyber.eventbrite.co.nz/. Based on booth registrations, the summit team will shape the layout of the exhibitor area. The summit team will engage with exhibitors on a first-come, first-served basis for them to select the booth they have bought.
  
 Exhibitor timeline closer to the Summit:
--	Monday 2nd November, 17:00 NZT exhibitor sales are scheduled to close
--	Monday 11th November, 12:00 pm onwards, the DEVON room opens for early pack-in
--	Tuesday 12th November, 7:30 am onwards, the DEVON room opens for late pack-in  
-   -  From 8:30, Summit begins
-   -  From 17:00, closing drinks in exhibitor area – drink tickets provided with registration  
-   -  From 19:00, event ends – early pack-out  
--	Wednesday 13th November – late pack-out 
+-	Mon 2nd November, 17:00 NZT exhibitor sales are scheduled to close
+-	Tue 25th November, 12:00 pm onwards, the DEVON room opens for early pack-in
+-	Wed 26th November, 7:30 am onwards, the DEVON room opens for late pack-in  
+    -  From 8:30, Summit begins
+    -  From 17:00, closing drinks in exhibitor area – drink tickets provided with registration
+    -  From 19:00, event ends – early pack-out  
+-	Thu 27th November – late pack-out 
 
 Please submit your questions via exhibit@icscyber.org.nz 
 
