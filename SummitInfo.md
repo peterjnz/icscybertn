@@ -17,7 +17,7 @@ Thank you for your interest in the NZ ICS/OT Cyber Summit, run by the NZ ICS Cyb
 
 Latest information on NZ ICS Cyber TN via https://icscyber.org.nz or https://icscyber.org.nz/NextEvent.pdf 
 
-Any questions, comments or concerns can be directed to Peter Jackson, Facilitator, NZ ICS Cyber Technical Network via info@icscyber.org.nz or to the summit committee via summit@icscyber.org.nz 
+Any questions, comments or concerns can be directed to Peter Jackson, Facilitator, NZ ICS Cyber Technical Network via info@icscyber.org.nz or to the summit team via summit@icscyber.org.nz 
 
 ## Members
 The NZ ICS Cyber TN is made up of members from across NZ (with some international members with an interest in NZ ICS/OT security).  Various backgrounds including IT, OT, and ICS professionals.  Owner/operators as well as vendors and service providers. Various industries including both critical (CNI) and non-critical industrial organisations.  Most members have a good understanding of OT principals (skip the basics).
@@ -42,13 +42,11 @@ The DRAFT summit agenda includes:
 -	~16:05 Closing keynote
 -	~17:00 Drinks and nibbles
 
-International contributors including:
--   [Robert M Lee (US)](https://www.linkedin.com/in/robmichaellee/) | Co-founder | Dragos
--   More to follow (~4-5 international contributors expected)
-
-NZ contributors including:
--   TBD from NZ NCSC
--   More to follow (~10-15 NZ contributors expected)
+Current agenda includes contributions from:
+-    [Robert M Lee (US)](https://www.linkedin.com/in/robmichaellee/) | Founder and CEO | Dragos; SANS ICS515 Course Author
+-    [Bruce Large (AUS)](https://www.linkedin.com/in/blargeau/) | Director and Principal Cyber Security Architect | BLARGE
+-    [Paul Ganter (NZ)](https://www.linkedin.com/in/paul-ganter-17a38b58/) | Industrial Safety and OT Cyber Security Manager | SGS ECL
+-    [Pieter van Oudtshoorn (NZ)](https://www.linkedin.com/in/pieter-van-rheede-van-oudtshoorn-1ab97746/) | ICS Cyber Security Consultant | SGS ECL
 
 ## Call for Presenters (CFP)
 Please consider presenting at the NZ ICS Cyber TN Summit if:
@@ -89,8 +87,8 @@ The costs for exhibiting are noted on the registration page.  All exhibitors get
 
 Those wanting to sponsor can choose to exhibit.  No formal sponsorship is required at this time.
 
-From the previous Summit survey:
--  For Q1, 100% of respondents were satisfied or extremely satisfied with 2023 summit
+From a previous Summit survey:
+-  For Q1, 100% of respondents were satisfied or extremely satisfied with the summit
 -  For Q6, respondents gave a [Net Promotor Score (NPS®)](https://www.netpromotersystem.com/) of 79 with an average of 9.3/10 
 -  For Q7, the summit exceeded expectations for 65% of respondents (35% met expectations)
 
@@ -99,9 +97,10 @@ Please note:
 -	Exhibitors will not receive a list of NZ ICS/OT Cyber Summit attendees
 -	No free passes will be issued. All exhibitors must hold an attendee pass 
 -	Attendee passes are a very reasonable NZD tbc inc. fees ex. gst
--	All trestle tables and booths come with power.  The venue has password-protected Wi-Fi
+-	All booths come with power, a table, and seats
+-	The venue has password-protected Wi-Fi
 
-All booths are standard dimensions from TLL (events provider).  After registering a booth, you can contact Michael at TLL directly via www.tll.events, +64 6 758 2875, or  michael@tll.events (for example for addditional furniture and/or additional technical requirements)
+All booths are standard dimensions from TLL (events provider).  After registering a booth, you can contact Michael at TLL directly via www.tll.events, +64 6 758 2875, or  michael@tll.events (for example for additional furniture and/or additional technical requirements)
 
 Tickets via Eventbrite: https://icscyber.eventbrite.co.nz/. Based on booth registrations, the summit team will shape the layout of the exhibitor area. The summit team will engage with exhibitors on a first-come, first-served basis for them to select the booth they have bought.
  
@@ -112,7 +111,7 @@ Exhibitor timeline closer to the Summit:
     -  From 8:30, Summit begins
     -  From 17:00, closing drinks in exhibitor area – drink tickets provided with registration
     -  From 19:00, event ends – early pack-out  
--	Thu 27th November – late pack-out 
+-	Thu 27th November – late pack-out (am)
 
 Please submit your questions via exhibit@icscyber.org.nz 
 
@@ -121,6 +120,8 @@ We will run a number of panels at the NZ ICS/OT Cyber Summit.
 
 Current line-up:  
 tbd
+
+If you're interested in presenting on a panel, please email summit@icscyber.org.nz
 
 Before the summit, the facilitator will run an online call (Teams or Zoom) for the panel to meet, break the ice, discuss the panel, set expectations for the panel, etc.  This is not expected to be a ‘dry run’.
 
