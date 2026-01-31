@@ -1,5 +1,5 @@
 # Speaker Information – NZ ICS Cyber TN (Forum)
-Thank you for your interest in presenting at a NZ ICS Cyber Technical Network quarterly forum.
+Thank you for your interest in presenting at an NZ ICS Cyber Technical Network forum.
 ## Information about NZ ICS Cyber TN:
 **Purpose/Aim:**  An industry-led organisation established to promote the sharing and understanding of Industrial Control Systems (ICS) Cyber Security ideas in order to foster learning, development, and improve cyber security maturity for NZ industrial companies.
 
