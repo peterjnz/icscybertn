@@ -1,6 +1,7 @@
 # NZ ICS Cyber Technical Network
 
 To register interest in joining the community, see https://forms.office.com/r/pciDF5FaqT
+For information on the next forum event, see https://icscyber.org.nz
 
 ## Purpose
 A trusted forum for NZ practitioners to share experiences, discuss threats, and strengthen resilience in Industrial Control Systems (ICS) and Operational Technology (OT) environments.
