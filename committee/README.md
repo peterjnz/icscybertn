@@ -13,7 +13,9 @@ Committee responsibilities include
  - [Bruce Large](https://www.linkedin.com/in/blargeau/)
  - [Bhojraj Parmar](https://www.linkedin.com/in/bhojrajparmar/)
  - JP (NCSC)
- - [Paul Ganter](https://www.linkedin.com/in/paul-ganter-17a38b58/)
- - [Peter Jackson](https://www.linkedin.com/in/peterjnz/)
+ - [Paul Ganter](https://www.linkedin.com/in/paul-ganter-17a38b58/) (co-chair)
+ - [Peter Jackson](https://www.linkedin.com/in/peterjnz/) (co-chair)
+ - Asset owner/operator role - TBC #1
+ - Asset owner/operator role - TBC #2
 
 Questions can be directed to [info@icscyber.org.nz](mailto:info@icscyber.org.nz)
